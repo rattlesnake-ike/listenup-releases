@@ -6,6 +6,15 @@
     <description>Updates for ListenUp</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sat, 03 Oct 2026 01:51:02 +0000</pubDate>
+      <sparkle:version>10003</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clearer message, with a one-click link, when Dictation is turned off.</p>]]></description>
+      <enclosure url="https://github.com/rattlesnake-ike/listenup-releases/releases/download/v1.0.3/ListenUp-1.0.3.zip" length="1466327" type="application/octet-stream" sparkle:edSignature="3rN8a5j/pBiKfAJjYFpKKOeMwv13yV/IPthjQckscdR5B3/UmWoVyJ+3kJVkkAC9Oh4lfYGxMwKfKNVeMIcZBA=="/>
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <pubDate>Sat, 03 Oct 2026 01:48:47 +0000</pubDate>
       <sparkle:version>10002</sparkle:version>
