@@ -6,6 +6,15 @@
     <description>Updates for ListenUp</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sat, 03 Oct 2026 01:48:47 +0000</pubDate>
+      <sparkle:version>10002</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The Talk button is now the blue orb. Copy is the two-boxes icon.</p>]]></description>
+      <enclosure url="https://github.com/rattlesnake-ike/listenup-releases/releases/download/v1.0.2/ListenUp-1.0.2.zip" length="1463977" type="application/octet-stream" sparkle:edSignature="ry3TOT4xUkAn57cwa460FTYBKHVk1AEWghhRCAI/k3t6WpwZG3R0DE1EVfkn/rOj20OHyX7psfdezsIz02s3Dg=="/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Sat, 03 Oct 2026 01:42:17 +0000</pubDate>
       <sparkle:version>10001</sparkle:version>
